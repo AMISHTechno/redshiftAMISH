@@ -4,7 +4,7 @@
 
 ## Overview 🌠
 
-Welcome to RedShiftOps' Hubble JWT Log Analyzer & Insight Generator. Designed to offer unparalleled log analysis, this system is akin to having the Hubble Space Telescope for your data. It securely processes log data through advanced machine learning algorithms and feeds insightful analytics into the ELK stack for in-depth exploration and visualization. 📊
+Welcome to RedShiftOps' Hubble JWT Log Analyzer & Insight Generator. Enhanced long analysis, this system is akin to having the Hubble Space Telescope for your data. It securely processes log data through advanced machine learning algorithms, feeds insightful analytics into the ELK stack for in-depth exploration and visualization. 📊
 
 ## Core Functionality ⚙️
 
@@ -16,7 +16,7 @@ Welcome to RedShiftOps' Hubble JWT Log Analyzer & Insight Generator. Designed to
 
 ## Getting Started 🚀
 
-To begin using RedShiftOps, please follow the setup and installation instructions detailed in our [Getting Started Guide](#).
+RSO is not ready for install though you are welcome to branch, for, or get involved!
 
 ## Contributing 🤝
 
@@ -28,18 +28,14 @@ Contributions are what make the open-source community such an amazing place to l
 4. **Push to the Branch**: `git push origin feature/AmazingFeature`
 5. **Open a Pull Request**
 
-## License 📄
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Acknowledgements 🌟
 
-- Special thanks to JWT Tokens for secure authentication inspiration.
+- Special thanks to JWT Tokens for secure authentication naming inspiration.
 - Appreciation for Hubble-related acronyms, elevating our branding to cosmic levels.
 
 ## Contact 📡
 
-- HS: Contact details (if available)
+- HS:
 - NZ: [Email NZ](mailto:p4rlx-news@pm.me)
 
 Join us in this interstellar journey of data exploration and machine learning excellence! 🚀🌠
