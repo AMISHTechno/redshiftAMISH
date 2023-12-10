@@ -1,0 +1,24 @@
+site_name: RedShift AI Operations Tooling & System
+site_url: https://www.example.audiato.cloud
+nav:
+  - Home: index.md
+  - About:
+    - 'About Us': 'about.md'
+    - 'Purpose of Audiato RedShift': 'purpose.md'
+  - Purpose: purpose.md
+  - DevOps: devops.md
+  - AI Ops: aiops.md
+  - ML: ml.md
+  - MLOps: mlops.md
+  - Infrastructure: infrastructure.md
+theme: 
+  name: dracula
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - python
+    - bash
+    - javascript
+    - json
+    - typescript
+

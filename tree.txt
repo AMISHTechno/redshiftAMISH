@@ -1,0 +1,142 @@
+[1;36m.[0m
+├── [1;36mAIOps[0m
+│   └── NOTES.md
+├── [1;36mDevDocs[0m
+│   ├── TOOLS.md
+│   └── zinit_project.sh
+├── Dockerfile
+├── [1;36mMLOps[0m
+│   ├── [1;36mAppliedML[0m
+│   │   ├── [1;36m1_ner_keyinfo[0m
+│   │   │   ├── NER_model_training.ipynb
+│   │   │   ├── README.md
+│   │   │   ├── model_eval.py
+│   │   │   └── pre_process_NER.py
+│   │   ├── [1;36m2_anom_detect[0m
+│   │   │   ├── eval.py
+│   │   │   └── training.py
+│   │   ├── [1;36m3_model_chain[0m
+│   │   │   ├── README.md
+│   │   │   ├── eval.py
+│   │   │   └── training.py
+│   │   └── [1;36m4_output_models[0m
+│   ├── README.MD
+│   ├── [1;36mmlops[0m
+│   │   ├── documentation.md
+│   │   ├── [1;36mexperiments[0m
+│   │   ├── mlflow.md
+│   │   └── model_monitoring.py
+│   ├── [1;36mnotebooks[0m
+│   └── [1;36mscripts[0m
+├── README.md
+├── TODO.md
+├── __version__.py
+├── [1;36manalyticsLake[0m
+│   └── Notes.md
+├── [1;36mdataEngineering[0m
+│   ├── Keynotes.md
+│   ├── __init__.py
+│   ├── [1;36manalysis[0m
+│   │   └── init_probe91223.ipynb
+│   ├── [1;36mfinal[0m
+│   ├── [1;36mprocessing[0m
+│   │   └── [1;36mparsing[0m
+│   │       ├── [1;36mlogpai logparser 4953a44db58aeca8aad980c386075dfb8d96b871 logparser-LogCluster[0m
+│   │       └── [1;36msrc[0m
+│   │           └── LogCluster.py
+│   └── [1;36mtools[0m
+│       └── [1;36mpre-processing[0m
+├── [1;36mdevOps[0m
+│   ├── README.md
+│   ├── __init__.py
+│   ├── [1;36mkubeflow[0m
+│   ├── [1;36mkubernetes[0m
+│   ├── [1;36mlog_tools[0m
+│   │   ├── __init__.py
+│   │   └── loggers.py
+│   ├── [1;36mlogs[0m
+│   ├── [1;36mmlops[0m
+│   │   ├── documentation.md
+│   │   ├── mlflow.md
+│   │   └── model_monitoring.py
+│   ├── [1;36mmodels[0m
+│   │   ├── [1;36m1_ner_keyinfo[0m
+│   │   │   ├── NER_model_training.ipynb
+│   │   │   ├── README.md
+│   │   │   ├── model_eval.py
+│   │   │   └── pre_process_NER.py
+│   │   ├── [1;36m2_anom_detect[0m
+│   │   │   ├── eval.py
+│   │   │   └── training.py
+│   │   ├── [1;36m3_model_chain[0m
+│   │   │   ├── README.md
+│   │   │   ├── eval.py
+│   │   │   └── training.py
+│   │   └── [1;36m4_outputs[0m
+│   ├── [1;36mnotebooks[0m
+│   ├── [1;36mpublic[0m
+│   │   └── logo.webp
+│   ├── [1;36mscripts[0m
+│   └── [1;36msrc[0m
+│       ├── __init__.py
+│       ├── [1;36mapp[0m
+│       │   ├── app.py
+│       │   ├── [1;36mapp_fn[0m
+│       │   └── app_nest.py
+│       ├── main.py
+│       └── [1;36mtests[0m
+├── [1;36mdocumentation[0m
+│   ├── Notes.md
+│   └── audoDoc.md
+├── [1;36mearth[0m
+│   ├── [1;36mapi[0m
+│   │   ├── [1;36mcontrollers[0m
+│   │   ├── [1;36mexamples[0m
+│   │   │   ├── __init__.py
+│   │   │   ├── examples_controller.py
+│   │   │   ├── examples_entity.py
+│   │   │   ├── examples_model.py
+│   │   │   ├── examples_module.py
+│   │   │   ├── examples_service.py
+│   │   │   └── orm_config.py
+│   │   ├── keyfeaturesAPI.md
+│   │   └── [1;36mmodels[0m
+│   ├── [1;36mglobalAuth[0m
+│   │   └── JWTAuthflow.md
+│   └── [1;36mscripts[0m
+├── [1;36melasticDBMS[0m
+│   ├── __init__.py
+│   ├── [1;36mchromadb[0m
+│   │   └── notes.md
+│   └── [1;36melastic[0m
+│       └── es_client.py
+├── [1;36mobs_tools[0m
+│   ├── Notes.md
+│   ├── __init__.py
+│   ├── log_schema.json
+│   └── loggers.py
+├── [1;36momni_logs[0m
+│   ├── [1;36maiops_logs[0m
+│   ├── app_logs
+│   ├── [1;36mdevops_logs[0m
+│   └── [1;36mmlops_logs[0m
+├── [1;36mpublic[0m
+│   └── logo.webp
+├── pushFiles2DataCenter.sh
+├── pyproject.toml
+├── redshiftOps.code-workspace
+├── [1;36msrc[0m
+│   ├── __init__.py
+│   ├── [1;36mapp[0m
+│   │   ├── app.py
+│   │   └── [1;36marc[0m
+│   │       ├── [1;36mapp_fn[0m
+│   │       ├── app_nest 2.py
+│   │       └── app_nest.py
+│   └── main.py
+├── [1;36mtaskAutomation_DAGS[0m
+│   └── openui.md
+├── [1;36mtesting[0m
+└── tree.txt
+
+64 directories, 76 files
